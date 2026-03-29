@@ -56,9 +56,16 @@ The dashboard is designed with a **multi-page, app-like interface** including na
 
 ## 📸 Screenshots
 
-> *(Add your screenshots here)*
+### Overview
+![Overview](github/Dashboard.png)
 
-  
+### Chart Analysis
+![Analysis](github/Charts.png)
+![Analysis](github/Bar_charts.png)
+
+
+### Graph
+![Graph](github/graph.png)
 
 ---
 
